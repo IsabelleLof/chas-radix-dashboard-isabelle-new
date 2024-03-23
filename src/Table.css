@@ -1,0 +1,19 @@
+.table-container {
+  background-color: black;
+  color: white;
+  border: 0.5px solid rgb(94, 94, 94);
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.font-color {
+  color: white;
+}
+
+.table-item {
+  justify-content: space-between;
+  display: flex;
+}
